@@ -4,6 +4,8 @@ int main() {
     printf("Variablen");
     printf("Aufgabe 2");
 
+
+
     int a, b = 6, c, d = 1;
 
     a = b / 2;
