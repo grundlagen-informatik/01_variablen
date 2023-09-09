@@ -1,3 +1,3 @@
-C:/Users/michi/01_variablen/cmake-build-debug/CMakeFiles/01_variablen.dir
-C:/Users/michi/01_variablen/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/michi/01_variablen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/teodo/OneDrive/Dokumente/IT/GIT/01_variablen/cmake-build-debug/CMakeFiles/01_variablen.dir
+C:/Users/teodo/OneDrive/Dokumente/IT/GIT/01_variablen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/teodo/OneDrive/Dokumente/IT/GIT/01_variablen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

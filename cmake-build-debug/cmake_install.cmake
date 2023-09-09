@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/michi/01_variablen
+# Install script for directory: C:/Users/teodo/OneDrive/Dokumente/IT/GIT/01_variablen
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/michi/01_variablen/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/teodo/OneDrive/Dokumente/IT/GIT/01_variablen/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
