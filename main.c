@@ -14,6 +14,8 @@ int main() {
     printf("b = %d\n", b);
     a = --b + d++;
     printf("a = %d\n", a);
+    c= b + 2;
+    printf("a=%d\n",c);
 
     a = 0;
     b = 2;
