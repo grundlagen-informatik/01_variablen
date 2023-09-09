@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "01_variablen::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-01_variablen-Debug-11861e916afded132715.json",
+					"jsonFile" : "target-01_variablen-Debug-a762c15989ce2cd64e2c.json",
 					"name" : "01_variablen",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/igeis/Desktop/git/aufgaben-grundlagen-informatik/01-variablen/cmake-build-debug",
-		"source" : "C:/Users/igeis/Desktop/git/aufgaben-grundlagen-informatik/01-variablen"
+		"build" : "C:/Users/michi/01_variablen/cmake-build-debug",
+		"source" : "C:/Users/michi/01_variablen"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }
