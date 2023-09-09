@@ -1,5 +1,5 @@
 CMakeFiles/01_variablen.dir/main.c.obj: \
- C:\Users\michi\01_variablen\main.c \
+ C:\Users\User\Documents\HF-Techniker\5-Informatik\3.\ Sem\01_variablen\main.c \
  C:/Program\ Files/JetBrains/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
