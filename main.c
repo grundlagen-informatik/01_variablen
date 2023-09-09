@@ -3,7 +3,7 @@
 int main() {
     printf("Variablen");
     printf("Aufgabe 2");
-//test
+//test sdkfj
     int a, b = 6, c, d = 1;
 
     a = b / 2;
