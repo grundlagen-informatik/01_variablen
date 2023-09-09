@@ -24,6 +24,9 @@ int main() {
     printf("a = %d\n", a);
     a = ++b * d++ * ++c;
     printf("a = %d\n", a);
+
+    printf("Okans Branch funktioniert!");
+
     return 0;
 
 }
