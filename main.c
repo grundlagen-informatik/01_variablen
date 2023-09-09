@@ -13,6 +13,7 @@ int main() {
     b = 1 - --b;
     printf("b = %d\n", b);
     a = --b + d++;
+    a=--b + d--
     printf("a = %d\n", a);
 
     a = 0;
