@@ -1,5 +1,5 @@
 #include <stdio.h>
-//hallo
+//tschüss
 
 int main() {
     printf("Variablen");
